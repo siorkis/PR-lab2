@@ -1,0 +1,84 @@
+{
+	"pizza": 
+	{
+	"id": 1,
+	"name": "pizza",
+	"eating-difficulty": 2 
+	
+	},
+
+	"salad": {
+	"id": 2,
+	"name": "salad",
+	"eating-difficulty": 1 
+	},
+
+	"zeama": {
+	"id": 3,
+	"name": "zeama",
+	"eating-difficulty": 1 
+	},
+
+	"Scallop Sashimi with Meyer Lemon Confit": {
+	"id": 4,
+	"name": "Scallop Sashimi with Meyer Lemon Confit",
+	"eating-difficulty": 3 
+	},
+
+	"Island Duck with Mulberry Mustard": {
+	"id": 5,
+	"name": "Island Duck with Mulberry Mustard",
+	"eating-difficulty": 3 
+	
+	},
+
+	"Waffles": {
+	"id": 6,
+	"name": "Waffles",
+	"eating-difficulty": 1 
+	},
+
+	"Aubergine": {
+	"id": 7,
+	"name": "Aubergine",
+	"eating-difficulty": 2 
+	},
+
+	"Lasagna": {
+	"id": 8,
+	"name": "Lasagna",
+	"eating-difficulty": 2 
+	
+	},
+
+	"Burger": {
+	"id": 9,
+	"name": "Burger",
+	"eating-difficulty": 1 
+	},
+	
+	"Gyros": {
+	"id": 10,
+	"name": "Gyros",
+	"eating-difficulty": 1 
+	},
+
+	"Kebab": {
+	"id": 11,
+	"name": "Kebab",
+	"eating-difficulty": 1
+	},
+	
+	"Unagi Maki":{
+	"id": 12,
+	"name": "Unagi Maki",
+	"eating-difficulty": 2 
+	},
+
+	"Tobacco Chicken": {
+	"id": 13,
+	"name": "Tobacco Chicken",
+	"eating-difficulty": 2 
+	}
+
+}
